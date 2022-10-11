@@ -41,7 +41,7 @@ const Bulk = () => {
   };
 
   const refresh = function () {
-    alert("Reset to default?");
+    alert("Your Messages have been saved successfully");
     location.reload();
   };
 
